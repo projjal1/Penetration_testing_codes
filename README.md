@@ -8,6 +8,6 @@ Codes have been written in python3 and is adviced to be run on both host and gue
   <li>wxPython (for grabbing screenshots)</li>
   <li>scapy (for port scanning and packet sniffing)</li>
   <li>nmap (for port vunerability check)</li>
-  <li></li>
+  <li>socket (for socket programming when listening onto open ports)</li>
   <li></li>
 </ul>
