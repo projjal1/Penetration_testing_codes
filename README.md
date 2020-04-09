@@ -1,6 +1,5 @@
 # Penetration_testing_codes
-This repo contains python3 scripts for Penetration testing for ethical purposes.
-
+This repo contains python3 scripts for Penetration testing for ethical purposes. <br>
 Codes have been written in python3 and is adviced to be run on both host and guest os using a VM in a network.
 
 <h2>Required Python libraries</h2>
